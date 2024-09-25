@@ -10,6 +10,10 @@
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://web.telegram.org/k/#@YakovGolotin)
 
+[![VK](https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white)](https://vk.com/survival_sinner)
+
+[![Mail](https://img.shields.io/badge/Mail-yellow?logo=gmail&logoColor=white)](ya-go2002@yandex.ru)
+
 # 💻 Tech Stack:
 
 ### Languages
